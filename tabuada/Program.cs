@@ -6,4 +6,6 @@ for (int i = 0; i<11 && n1>0; i++)
 {
     tabuada = n1 * i;
     Console.WriteLine(n1+"x"+i+"="+tabuada);
+
+
 }
